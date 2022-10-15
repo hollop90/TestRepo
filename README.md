@@ -7,3 +7,6 @@ ok I'll admit it's pretty empty.
 this is master branch
 
 o looka  new feature
+
+new line
+
